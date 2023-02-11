@@ -1,0 +1,5 @@
+{
+    "require": {
+        "maize-tech/laravel-markable": "^1.0"
+    }
+}
